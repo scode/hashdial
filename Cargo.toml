@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Peter Schuller <peter.schuller@infidyne.com>"]
 
 [dependencies]
+clap = "2.27.0"
